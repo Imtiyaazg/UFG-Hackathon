@@ -1,7 +1,6 @@
 describe('Hackathon task 2', () => {
 
   it('should test task 2', function () {
-    //cy.visit('https://demo.applitools.com/gridHackathonV1.html');
     cy.visit('https://demo.applitools.com/gridHackathonV2.html');
 
     // filter by black shoe
